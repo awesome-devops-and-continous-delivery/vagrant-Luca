@@ -1,0 +1,1 @@
+{"virtualbox":{},"rsync":{"/usr/share/nginx/html/":{"type":"rsync","rsync__args":["-r","--include=index.html","--exclude=*"],"guestpath":"/usr/share/nginx/html","hostpath":"C:/Users/lbonfanti/OneDrive - Bip/Desktop/Module 6/vagrant-Luca","disabled":false,"__vagrantfile":true,"args":["-r","--include=index.html","--exclude=*"],"owner":"vagrant","group":"vagrant"}}}
